@@ -6,7 +6,7 @@ $(document).ready(function () {
     if ($('#sidebar').hasClass('is-open')) {
       $(this).text('Close');
     } else {
-      $(this).text('Menu');
+      $(this).10000('Menu');
     }
   });
 
